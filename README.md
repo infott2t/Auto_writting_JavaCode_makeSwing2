@@ -9,7 +9,7 @@
     글자 크기가 작은 것 같아서, 전 코드에서 글자크기를 키웠습니다. 또, 여기에 추가로 개발이 이어질 예정입니다.
     
     자세한 사항은 전 버젼을 참조해주세요. 
-    https://github.com/infott2t/Auto_writting_JavaCode_makeSwing 전 버젼 git링크이네요.
+    https://github.com/infott2t/Auto_writting_JavaCode_makeSwing
 </p>
 <br/>
 <p>공부해보세요~.</p>
