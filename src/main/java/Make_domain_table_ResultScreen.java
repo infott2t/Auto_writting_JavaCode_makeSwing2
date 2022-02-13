@@ -21,7 +21,7 @@ public class Make_domain_table_ResultScreen extends JFrame {
         jp = new JPanel();
         jl = new JLabel("Rally: Table Name, "+ tableName );
         jl.setFont(new Font("", Font.PLAIN, 20));
-        jtf = new JTextField(30);
+        jtf = new JTextField(31);
         jtf.setFont(new Font("", Font.PLAIN,20));
         btn = new JButton("enter");
         btn.setFont(new Font("", Font.PLAIN,20));
