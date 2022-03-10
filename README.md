@@ -12,8 +12,8 @@
     https://github.com/infott2t/Auto_writting_JavaCode_makeSwing
 </p>
 <br/>
-<p> 사용 설명
-. 테이블이름은 소문자로 해주세요. vari1은 id입니다. long형으로 만드셔야합니다. 테이블명으로 적는 것을 추천드림니다. </p>
+<h4> 사용 설명</h4>
+<p>테이블이름은 소문자로 해주세요. vari1은 id입니다. long형으로 만드셔야합니다. 테이블명으로 적는 것을 추천드림니다. </p>
 <img width="571" alt="cap01" src="https://user-images.githubusercontent.com/25080178/157581014-2b018b74-c147-4982-804d-287d9961ace8.PNG">
 <p>실제 사용할 때에 위의 null인 변수들은 제거를 해주어야합니다. 적절한 코드수정이 필요하군요.</p>
 <p> view부분을 이어서 자동코드로 만들예정입니다~.</p>
