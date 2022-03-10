@@ -158,7 +158,7 @@ public class Make_web_dto_domain_SaveRequestDto_ResultScreen extends JFrame {
                 "// \n"+
                 "\n"+
                 "@Getter\n"+
-                "@NoArgsConstructor\n"+s
+                "@NoArgsConstructor\n"+
                 "public class "+reCodeTN_LFUC+"SaveRequestDto {\n"+
 
                 "   private "+resultValueStringAndLong2 +" "+v2+";\n"+

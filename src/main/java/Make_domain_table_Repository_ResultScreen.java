@@ -85,7 +85,7 @@ public class Make_domain_table_Repository_ResultScreen extends JFrame {
             }
         });
 
-        //v1, 대소문자 앞글자를 소문자로 바꾸기. 변수명.
+        //v1, 대소문자 앞글자를 소문자로 바꾸기. 변수명. Change Char, first letter Big->Small.
         //v1.
         Util util = new Util();
         reCodeTN_LFUC = util.frontChangeCase(tableName);
