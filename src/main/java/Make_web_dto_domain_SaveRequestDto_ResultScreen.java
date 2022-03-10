@@ -88,7 +88,7 @@ public class Make_web_dto_domain_SaveRequestDto_ResultScreen extends JFrame {
         //v1.
         Util util = new Util();
         reCodeTN_LFUC = util.frontChangeCase(tableName);
-        setTitle("web.dto."+tableName+"."+reCodeTN_LFUC+"SaveResponseDto.java File.");
+        setTitle("web.dto."+tableName+"."+reCodeTN_LFUC+"SaveRequestDto.java File.");
 
         if(v1.equals("")){}else{reCodeV1_LFUC = util.frontChangeCase(v1);}
         if(v2.equals("")){}else{reCodeV2_LFUC = util.frontChangeCase(v2);}
@@ -158,7 +158,7 @@ public class Make_web_dto_domain_SaveRequestDto_ResultScreen extends JFrame {
                 "// \n"+
                 "\n"+
                 "@Getter\n"+
-                "@NoArgsConstructor\n"+
+                "@NoArgsConstructor\n"+s
                 "public class "+reCodeTN_LFUC+"SaveRequestDto {\n"+
 
                 "   private "+resultValueStringAndLong2 +" "+v2+";\n"+
