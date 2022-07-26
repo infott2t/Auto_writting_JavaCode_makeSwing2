@@ -12,6 +12,9 @@
     https://github.com/infott2t/Auto_writting_JavaCode_makeSwing
 </p>
 <br/>
+<h4>실행 방법</h4>
+<p> 여기를 참조해보세요. <a href="https://blog.naver.com/tt2t2am1118/222823741903">https://blog.naver.com/tt2t2am1118/222823741903</a></p>
+<br/>
 <h4> 사용 설명</h4>
 <p>테이블이름은 소문자로 해주세요. vari1은 id입니다. long형으로 만드셔야합니다. 테이블명으로 적는 것을 추천드림니다. </p>
 <img width="571" alt="cap01" src="https://user-images.githubusercontent.com/25080178/157581014-2b018b74-c147-4982-804d-287d9961ace8.PNG">
