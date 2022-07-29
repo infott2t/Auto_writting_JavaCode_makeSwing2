@@ -3,10 +3,12 @@
 <h3>스마트 기기. 안전하게 사용합시다. 좋은 습관을 만들어요.</h3>
 <h3>Let's safely use smartphones, etc. Let's make good traditioning toself. Thank you.</h3>
 <br/><br/>
-<p>작업기간. 2022년 2월 13일 ~ 진행중입니다.<p>
+<p>작업기간. 2022년 2월 13일 ~ 2022년 7월 30일.<p>
+<br/>
+<p> 다른 git으로 작업하고 있습니다. 여기를 참조해주세요. https://github.com/infott2t/Auto_writting_JavaCode_makeSwing3 </p>
     <br/>
  <p>
-    글자 크기가 작은 것 같아서, 전 코드에서 글자크기를 키웠습니다. 또, 여기에 추가로 개발이 이어질 예정입니다.
+    글자 크기가 작은 것 같아서, 전 코드에서 글자크기를 키웠습니다. 
     
     자세한 사항은 전 버전을 참조해주세요.
     https://github.com/infott2t/Auto_writting_JavaCode_makeSwing
